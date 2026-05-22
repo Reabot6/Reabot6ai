@@ -158,4 +158,4 @@ Reabot6 is not a product. It's a relationship. The longer you work together, the
 ## License
 
 MIT — forked from [OpenClaw](https://github.com/openclaw/openclaw) by Peter Steinberger and contributors.
-Built into Reabot6 by you.
+Built into Reabot6 by uhm Reabot6.
